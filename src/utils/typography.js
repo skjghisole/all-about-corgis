@@ -3,6 +3,7 @@ import customTheme from 'typography-theme-kirkham'
 
 
 const typography = new Typography(customTheme)
-export const { rhythm } = typography 
+const { rhythm } = typography 
 
+export { rhythm }
 export default typography
