@@ -1,6 +1,11 @@
 
 ## 🚀 Corgi World 🐶
 
-corgis.now.sh
+Techstack(JAMstack):
+  Gatsby
+  Reactjjs
+  Graphql
 
-corgis.surge.sh
+
+
+Visit https://corgis.now.sh (Zeit) http://corgis.surge.sh (surge) to preview
