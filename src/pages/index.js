@@ -1,12 +1,16 @@
 import React from "react"
 import Layout from '../components/Layout'
 import ShowcaseContainer from '../components/ShowcaseContainer'
+
+import SEO from "../components/seo"
+
 import corgi1 from '../assets/images/corgi1.jpg'
 import corgi2 from '../assets/images/corgi2.jpg'
 import corgi3 from '../assets/images/corgi3.jpg'
 import corgi4 from '../assets/images/corgi4.jpg'
 
 export default () => <Layout>
+	<SEO />
 	I love corgis!
 	<ShowcaseContainer>
 		<img src={corgi1} alt={'Cute corgi'} width={'300px'} height={'300px'}/>
