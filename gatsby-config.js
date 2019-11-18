@@ -13,7 +13,7 @@ module.exports = {
       options: {
         name: `Corgi World`,
         short_name: `Corgi`,
-        start_url: `/about`,
+        start_url: `/`,
         background_color: `white`,
         theme_color: `white`,
         display: `standalone`,
